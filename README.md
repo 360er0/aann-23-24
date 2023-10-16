@@ -4,6 +4,9 @@
 ### Lecture 1: Neural Networks
 * [Slides](https://docs.google.com/presentation/d/1Rld2JvfZazNTX9ihUL9K7sd1RH5--R8LsJm_HR5gJFM/edit?usp=sharing)
 * [Lab 1: Tensors](https://www.kaggle.com/lomero/aann-23-24-lab-01)
+
+### Lecture 2: Optimization
+* [Slides](https://docs.google.com/presentation/d/1t6TueXmFuYFYFCQNLpIedEmpDtvSVuhF6ITfgSLwwzk/edit)
 * [Lab 2: Neural Networks](https://www.kaggle.com/lomero/aann-23-24-lab-02-nn)
 
 ## Grading
