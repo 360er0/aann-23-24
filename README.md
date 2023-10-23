@@ -9,6 +9,10 @@
 * [Slides](https://docs.google.com/presentation/d/1t6TueXmFuYFYFCQNLpIedEmpDtvSVuhF6ITfgSLwwzk/edit)
 * [Lab 2: Neural Networks](https://www.kaggle.com/lomero/aann-23-24-lab-02-nn)
 
+### Lecture 3: Vanishing Gradient
+* [Slides](https://docs.google.com/presentation/d/1Fk16lt8OLJt8IPMRwosYjdIY8jZDNiZ9iis5Rm8AzKQ/edit)
+* [Lab 3: Vanishing Gradient](https://www.kaggle.com/lomero/aann-23-24-lab-03-vanishing-gradient)
+
 ## Grading
 The grading is based on the final project related to training a deep learning model.
 
