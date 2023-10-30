@@ -13,6 +13,10 @@
 * [Slides](https://docs.google.com/presentation/d/1Fk16lt8OLJt8IPMRwosYjdIY8jZDNiZ9iis5Rm8AzKQ/edit)
 * [Lab 3: Vanishing Gradient](https://www.kaggle.com/lomero/aann-23-24-lab-03-vanishing-gradient)
 
+### Lecture 4: Generalization
+* [Slides](https://docs.google.com/presentation/d/17QJrQKPvD2VLxO4lDfjlbl5B8mqJdVu5ENxUyF7vE3A/edit)
+* [Lab 4: Generalization](https://www.kaggle.com/lomero/aann-23-24-lab-04-lightning)
+
 ## Grading
 The grading is based on the final project related to training a deep learning model.
 
