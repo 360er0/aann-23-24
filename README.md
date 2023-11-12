@@ -17,9 +17,12 @@
 * [Slides](https://docs.google.com/presentation/d/17QJrQKPvD2VLxO4lDfjlbl5B8mqJdVu5ENxUyF7vE3A/edit)
 * [Lab 4: Generalization](https://www.kaggle.com/lomero/aann-23-24-lab-04-lightning)
 
-### Lecture 5: Transfer learning
+### Lecture 5: Transfer Learning
 * [Slides](https://docs.google.com/presentation/d/158fuoRSy9mDeRzhGKF1czmaM3jJsEY4GaGDDc1iy1fU/edit)
 * [Lab 5: Hugging Face Transformers](https://www.kaggle.com/lomero/aann-23-24-lab-05-transformers)
+
+### Lecture 6: Training Text Classifier
+* [Lab 6: Training Text Classifier](https://www.kaggle.com/lomero/aann-23-24-lab-06-training)
 
 ## Grading
 The grading is based on the final project related to training a deep learning model.
