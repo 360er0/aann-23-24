@@ -21,8 +21,11 @@
 * [Slides](https://docs.google.com/presentation/d/158fuoRSy9mDeRzhGKF1czmaM3jJsEY4GaGDDc1iy1fU/edit)
 * [Lab 5: Hugging Face Transformers](https://www.kaggle.com/lomero/aann-23-24-lab-05-transformers)
 
-### Lecture 6: Training Text Classifier
+### Lecture 6 & 7: Training Text Classifier
 * [Lab 6: Training Text Classifier](https://www.kaggle.com/lomero/aann-23-24-lab-06-training)
+
+### Lecture 8: Building Datasets
+* [Slides](https://docs.google.com/presentation/d/1_3btH8EHmyhuYatFMLvFOUwq5eoJ1L4gpCms3RvhrgU/edit)
 
 ## Grading
 The grading is based on the final project related to training a deep learning model.
