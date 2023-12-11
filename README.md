@@ -27,6 +27,11 @@
 ### Lecture 8: Building Datasets
 * [Slides](https://docs.google.com/presentation/d/1_3btH8EHmyhuYatFMLvFOUwq5eoJ1L4gpCms3RvhrgU/edit)
 
+## Lectue 9: Evaluation
+* [Slides](https://docs.google.com/presentation/d/12WV2gjQZOHhVkhgKKXzR8FpGeOnnZkLAxI1CdD4vfOs/edit)
+* [Lab 7: Evaluation](https://www.kaggle.com/lomero/aann-23-24-lab-07-evaluation)
+
+
 ## Grading
 The grading is based on the final project related to training a deep learning model.
 
