@@ -35,6 +35,10 @@
 * [Slides](https://docs.google.com/presentation/d/1SrujdGMpUMoO7D7NZRXJ9dZZwnk3fN1rUMX28SWv68s/edit)
 * [Lab 8: Image Classifier](https://www.kaggle.com/lomero/aann-23-24-lab-8-vision)
 
+### Lecture 11: Metric Learning
+* [Slides](https://docs.google.com/presentation/d/1Z_DUwJaZCUtNyW_2r8A27C_-oFA7l6OqhOqSu18ql_M/edit?usp=sharing)
+* [Lab 9: Metric Learning](https://www.kaggle.com/lomero/aann-23-24-lab-9-metric-learning)
+
 ## Grading
 The grading is based on the final project related to training a deep learning model.
 
