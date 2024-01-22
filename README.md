@@ -39,6 +39,10 @@
 * [Slides](https://docs.google.com/presentation/d/1Z_DUwJaZCUtNyW_2r8A27C_-oFA7l6OqhOqSu18ql_M/edit?usp=sharing)
 * [Lab 9: Metric Learning](https://www.kaggle.com/lomero/aann-23-24-lab-9-metric-learning)
 
+### Lecture 12: Large Language Models
+* [Slides](https://docs.google.com/presentation/d/1hccSYKNIPZRvPNf3HX8txvENDVN5KCrMhzKdjT9NKhw/edit?usp=sharing)
+* [Lab 10: Prompt Engineering](https://www.kaggle.com/lomero/aann-23-24-lab-10-prompt-engineering)
+
 ## Grading
 The grading is based on the final project related to training a deep learning model.
 
